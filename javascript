@@ -2,12 +2,13 @@
 // @name         Wikipedia Sv-En Button
 // @namespace    http://tampermonkey.net/
 // @version      2025-05-22
-// @description  Adds a button which switches between the Swedish and the English variant of a wikipedia page.
+// @description  Adds a button which switches between the Swedish and the English variant of a Wikipedia page.
 // @author       Elias Braun
 // @match        https://*.wikipedia.org/*
 // @icon         https://raw.githubusercontent.com/eliasbraunv/WikipediaSvEn/refs/heads/main/sven6464.png
 // @grant        none
 // @run-at       document-idle
+// @license      MIT
 // ==/UserScript==
 
 console.log(window.location);
