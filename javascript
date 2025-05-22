@@ -5,7 +5,7 @@
 // @description  Adds a button which switches between the Swedish and the English variant of a wikipedia page.
 // @author       Elias Braun
 // @match        https://*.wikipedia.org/*
-// @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
+// @icon         https://raw.githubusercontent.com/eliasbraunv/WikipediaSvEn/refs/heads/main/sven6464.png
 // @grant        none
 // @run-at       document-idle
 // ==/UserScript==
